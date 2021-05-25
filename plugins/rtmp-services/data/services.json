@@ -876,6 +876,19 @@
             ]
         },
         {
+            "name": "LinkedIn",
+            "recommended": {
+                "supported resolutions": [
+                    "1920x1080",
+                    "1280x720"
+                ],
+                "max fps": 30,
+                "keyint": 2,
+                "max video bitrate": 6000,
+                "max audio bitrate": 128
+            }
+        },
+        {
             "name": "Livestream",
             "servers": [
                 {
